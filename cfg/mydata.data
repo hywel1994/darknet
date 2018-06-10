@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/hywel/Tensorflow/Annotation/train.txt
+valid  = /home/hywel/Tensorflow/Annotation/valid.txt
+names = data/mydata.names
+backup = backup
+

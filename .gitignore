@@ -1,3 +1,5 @@
+*.a
+*.so
 *.o
 *.dSYM
 *.csv
@@ -7,7 +9,7 @@
 *.pyc
 old/
 mnist/
-data/
+#data/
 caffe/
 grasp/
 images/
@@ -15,7 +17,7 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
+#cfg/
 darknet
 .fuse*
 
@@ -25,3 +27,6 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+
+darknet53.conv.74
+yolov3.weights
