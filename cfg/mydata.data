@@ -1,6 +1,6 @@
-classes= 2
-train  = /home/hywel/Tensorflow/Annotation/train.txt
-valid  = /home/hywel/Tensorflow/Annotation/valid.txt
+classes= 3
+train  = /home/ubuntu/tensorflow/ImageData/train.txt
+valid  = /home/ubuntu/tensorflow/ImageData/valid.txt
 names = data/mydata.names
 backup = backup
 
